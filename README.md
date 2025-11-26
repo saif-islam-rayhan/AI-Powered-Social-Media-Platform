@@ -1,7 +1,7 @@
 # AI-Powered-Social-Media-Platform(Full Stack)
 
 
-# Welcome to your SmartConnect App 👋
+# Welcome to your SmartConnect App 
 
 This is a full-stack social media project containing:
 
@@ -12,7 +12,7 @@ You can start working by editing the files inside each folder.
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 SmartConnect/
@@ -24,9 +24,9 @@ SmartConnect/
 
 ---
 
-# 🚀 Get Started
+#  Get Started
 
-## 📱 Frontend (Expo)
+##  Frontend (Expo)
 
 ### Install dependencies
 ```
@@ -50,7 +50,7 @@ This project uses **file-based routing** inside the `app` directory.
 
 ---
 
-## 🖥 Backend (Django)
+##  Backend (Django)
 
 ### Create virtual environment
 ```
@@ -73,11 +73,11 @@ python manage.py runserver
 ```
 
 Your API will be available at:  
-👉 http://127.0.0.1:8000/
+ http://127.0.0.1:8000/
 
 ---
 
-# 🔄 Reset the Expo project
+#  Reset the Expo project
 
 When you're ready, you can reset the frontend project:
 
@@ -89,7 +89,7 @@ This command moves the starter code into `app-example` and creates a clean `app`
 
 ---
 
-# 📚 Learn More
+#  Learn More
 
 ### Expo
 - Expo Documentation — learn fundamentals & advanced topics  
@@ -103,7 +103,7 @@ This command moves the starter code into `app-example` and creates a clean `app`
 
 ---
 
-# 🌍 Join the Community
+#  Join the Community
 
 - Expo on GitHub — contribute or follow releases  
 - Django Community — forums and docs  
@@ -111,5 +111,5 @@ This command moves the starter code into `app-example` and creates a clean `app`
 
 ---
 
-Happy coding! 🚀  
-Build something awesome with **Expo + Django** ❤️
+Happy coding! 
+Build something awesome with **Expo + Django** 
